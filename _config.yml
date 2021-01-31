@@ -1,8 +1,7 @@
 title: Maxwell Malone
 email: maxwell.malone@gmail.com
 description: The blog and portfolio of Maxwell Malone - horror & weird fiction author.
-baseurl: "/mnmalone2021"
-url: "mnmalone.github.io"
+url: "www.maxwellmalone.com"
 
 markdown: kramdown
 highlighter: rouge
