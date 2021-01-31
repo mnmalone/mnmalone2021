@@ -1,0 +1,49 @@
+title: Maxwell Malone
+email: maxwell.malone@gmail.com
+description: The blog and portfolio of Maxwell Malone - horror & weird fiction author.
+baseurl: "/mnmalone2021"
+url: "mnmalone.github.io"
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-admin
+  - jekyll/tagging
+kramdown:
+  math_engine: mathjax
+
+twitter:
+  username: maxwell_irl
+  card: summary
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+logo: favicon.png
+
+collections:
+  portfolio:
+    output: true
+  film:
+    output: true
+  projects:
+    output: true
+  design:
+    output: true
+
+include:
+- _redirects
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+tag_page_layout: tagpage
+tag_page_dir: blog
