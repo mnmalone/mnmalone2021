@@ -14,7 +14,7 @@ tags: Podcast Audio-Drama Neo-Noir
 ---
 <div><img src="{{ site.baseurl }}/img/projects/{{ page.permalink }}/thumb-highdpi.jpg"></div>
 
-### Writing for a podcast is tough but rewarding work.
+### It takes time, patience, and a small village's worth of talent to bring a fiction podcast to life.
 
 In early 2017, [Henry Galley](https://twitter.com/henry_galley), writer and co-founder of the [<i>Less is Morgue</i>](https://lessismorgue.com/) podcast, and voice actor [Atticus Jackson](https://twitter.com/TheAtticus) began formulating an idea for a genre-bending audio drama that would combine noir, thriller, and fabulist elements. They wanted to tell the story of Jenny Walker – a hardboiled private investigator in modern-day New York City tasked with hunting for a strange missing girl named Claire DuBois. Along the way, Walker would be pitted against a trifecta of antagonists, each driven by their unique interests in Claire and all hellbent on getting to her first. Having had previous experiences publishing short horror fiction in podcast format, Galley quickly produced a pilot script for the show and began shopping it around.
 
