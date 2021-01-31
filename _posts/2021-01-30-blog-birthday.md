@@ -36,7 +36,7 @@ Now that the site exists, I intend to use it for the following:
 * To host a growing portfolio of large-scale writing projects I’m involved with
 * To build an interactive bibliography listing all my print and audio publications with details on those publications and links to access them when possible
 * To provide interested readers with ways to interact with me and support my writing
-* To house thoughts of mine that are too long to fit in your average tweet
+* To house thoughts of mine that are too long to fit in the average tweet
 
  More might be added to the mission of this site in the future, but for now that ought to do just fine!
 
