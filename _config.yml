@@ -4,6 +4,9 @@ description: The blog and portfolio of Maxwell Malone - horror & weird fiction a
 baseurl: ""
 url: "https://www.maxwellmalone.com/"
 
+# Google Analytics
+google_analytics: UA-129886155-1
+
 markdown: kramdown
 highlighter: rouge
 plugins:
