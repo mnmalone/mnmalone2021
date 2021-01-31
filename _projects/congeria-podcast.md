@@ -2,7 +2,7 @@
 permalink: congeria-podcast
 layout: casestudy
 name: Congeria Podcast
-descript: A <strong>neo-noir podcast</strong> set in modern-day New York City where private investigator Jenny Walker's search for a missing girl named Claire puts her in the crosshairs of a mysterious scientist, a ruthless hitman, and a charismatic cult leader obsessed with death.
+descript: An episodic neo-noir <strong>audio drama</strong> chronicling private investigator Jenny Walker's search for a mysterious missing girl named Claire DuBois.
 images:
     - congeria-cover.jpg
     - congeria-1.jpg
