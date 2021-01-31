@@ -10,7 +10,7 @@ images:
     - congeria-3.jpg
 slider: true
 date: February 2018
-tags: Podcast Playwriting Neo-Noir
+tags: Podcast Audio-Drama Neo-Noir
 ---
 <div><img src="{{ site.baseurl }}/img/projects/{{ page.permalink }}/thumb-highdpi.jpg"></div>
 
