@@ -253,3 +253,7 @@ p.blog-hero{
     @include hero-text;
     @include bold-serif;
 }
+
+.post-comments{
+    width: 700px;
+}
