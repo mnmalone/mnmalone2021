@@ -58,6 +58,10 @@
         <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
         {% endif %}
         <!-- end of Twitter cards -->
+        <!-- Google Analytics -->
+        {% if site.google_analytics and jekyll.environment == 'production' %}
+        {% include analytics.html %}
+        {% endif %}
     </head>
     <body>
         {% include homeheader.html %}
