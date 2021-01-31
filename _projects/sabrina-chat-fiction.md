@@ -2,7 +2,7 @@
 permalink: yarn-sabrina
 layout: casestudy
 name: "YARN - Chat & Text Stories: <i>Sabrina the Teenage Witch</i>"
-descript: Original, IP licensed chat fiction based on Archie Horror's <i>Chilling Adventures of Sabrina</i> written for Mammoth Media's <b>YARN</b> app.
+descript: Original, IP licensed chat fiction based on Archie Horror's <i>Chilling Adventures of Sabrina</i>. Written for Mammoth Media's <b>YARN</b> app.
 images:
     - sabrina-vid.mp4
     - witch.jpg
