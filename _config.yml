@@ -5,7 +5,7 @@ baseurl: ""
 url: "https://www.maxwellmalone.com/"
 
 # Google Analytics
-google_analytics: 260689314
+google_analytics: UA-129886155-1
 
 markdown: kramdown
 highlighter: rouge
