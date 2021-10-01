@@ -48,16 +48,3 @@ Until then, you can read more about a couple of big projects I’ve worked on in
 
 That about does it for this first post! Thanks for reading and I hope you’ll check back soon!
 
-| Date      | Prompt | Date     | Prompt | Date     | Prompt |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1      | Title       | 11      | Title       | 21      | Title       |
-| 2   | Text        | 12   | Text        | 22   | Text        |
-| 3   | Text        | 13   | Text        | 23   | Text        |
-| 4   | Text        | 14   | Text        | 24   | Text        |
-| 5   | Text        | 15   | Text        | 25   | Text        |
-| 6   | Text        | 16  | Text        | 26   | Text        |
-| 7   | Text        | 17   | Text        | 27   | Text        |
-| 8   | Text        | 18   | Text        | 28   | Text        |
-| 9   | Text        | 19   | Text        |
-| 10   | Text        | 20   | Text        |
-
