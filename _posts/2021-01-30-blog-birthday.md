@@ -47,13 +47,3 @@ With the building of this site and the wildness that 2020 had to offer, I’ve b
 Until then, you can read more about a couple of big projects I’ve worked on in the recent past on my [Portfolio]({{ site.baseurl }}/portfolio) page or you can check out some of my story publications using the links provided in my [Bibliography]({{ site.baseurl }}/bibliography).
 
 That about does it for this first post! Thanks for reading and I hope you’ll check back soon!
-
-| Week 1 | Prompt       | Week 2 | Prompt       | Week 3 | Prompt       | Week 4 | Prompt           |
-| ------ | ------------ | ------ | ------------ | ------ | ------------ | ------ | ---------------- |
-| 3      | Gestation    | 10     | Foresight    | 17     | Digital      | 24     | Cobweb           |
-| 4      | Mask         | 11     | Dreams       | 18     | Carapace     | 25     | Vortex           |
-| 5      | Garden       | 12     | Hive         | 19     | Frogs        | 26     | Barnacle         |
-| 6      | Goop         | 13     | Wish         | 20     | Ignorance    | 27     | Shadow           |
-| 7      | Prehistoric  | 14     | Tentacle     | 21     | Mirror       | 28     | Accident         |
-| 8      | Parasite     | 15     | Sea Monkeys  | 22     | Void         | 29     | Hunter           |
-| 9      | Gargantuan   | 16     | Martian      | 23     | Suffocation  | 30     | Jack o’ Lantern  |
