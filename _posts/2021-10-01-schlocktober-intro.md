@@ -4,7 +4,7 @@ layout: post
 date: '2021-10-01'
 tags: schlocktober project 2021
 comments: true
-image: "/img/blog/2021-01/birthday-cake.png"
+image: "/img/blog/2021-10/schlocktober-intro.png"
 ---
 
 October is finally upon us and with it comes the autumnal inspirations that spark many Horror authors, illustrators, filmmakers, designers, and general creatives – myself included - into practicing their piety for the season by creating new art. This month has always supercharged me with new ideas, and while many of them have been dutifully recorded into my writing notebook, only a scant few have made their way to becoming fully fleshed-out stories.
