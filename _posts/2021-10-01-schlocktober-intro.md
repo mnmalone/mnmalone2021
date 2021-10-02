@@ -7,6 +7,8 @@ comments: true
 image: "/img/blog/2021-10/schlocktober-intro.png"
 ---
 
+![]({{ site.baseurl }}/img/blog/2021-10/schlocktober-intro.png)
+
 October is finally upon us and with it comes the autumnal inspirations that spark many Horror authors, illustrators, filmmakers, designers, and general creatives – myself included - into practicing their piety for the season by creating new art. This month has always supercharged me with new ideas, and while many of them have been dutifully recorded into my writing notebook, only a scant few have made their way to becoming fully fleshed-out stories.
 
 This year, I want to try something a little bit different and avoid the stress of focusing all of my creative energies on only one or two short stories. With a little help from my friends, and some inspiration from both the artistic projects of other creators that I follow and my favorite pieces of Horror media, I’ve managed to come up with a month-long project that focuses primarily on personal growth, exploration, and reconnecting with some of the foundational concepts that form the bedrock of my favorite genre.
