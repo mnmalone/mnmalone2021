@@ -47,5 +47,3 @@ With the building of this site and the wildness that 2020 had to offer, I’ve b
 Until then, you can read more about a couple of big projects I’ve worked on in the recent past on my [Portfolio]({{ site.baseurl }}/portfolio) page or you can check out some of my story publications using the links provided in my [Bibliography]({{ site.baseurl }}/bibliography).
 
 That about does it for this first post! Thanks for reading and I hope you’ll check back soon!
-
-![]({{ site.baseurl }}/img/blog/2021-10/prompt-schedule.png)
