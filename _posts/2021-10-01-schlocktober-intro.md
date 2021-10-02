@@ -35,17 +35,17 @@ My goal is to use each one of these on their given day to write something relate
 
 I’m also choosing to not impose any word or character count limits or goals. Rather, I’m interested in seeing where the word and the game of association I’ll be playing with it takes me, whether that be paragraphs or pages.
 
-Finally, I intend to post weekly recaps here on my blog, starting on October 10th, where I will briefly summarize how the week’s prompts went and share my favorite piece produced that week in its entirety. Keep an eye out on my [Twitter]( https://twitter.com/maxwell_irl) and [Facebook]( https://facebook.com/maxwell.irl) pages, where I’ll be sharing my thoughts on the process as I move through it, as well as links to the recaps when I post them here!
+Finally, I intend to post weekly recaps here on my blog, starting on October 10th, where I will briefly summarize how the week’s prompts went and share my favorite piece produced that week in its entirety.
+
+Hopefully you are just as excited for Schlocktober 2021 as I am! I’m looking forward to everything I will have a chance to learn in the process, as well as getting to share it with all of you. I also hope to continue this self-same project in the years to come, should this pilot go over well! Keep an eye out on my [Twitter]( https://twitter.com/maxwell_irl) and [Facebook]( https://facebook.com/maxwell.irl) pages, where I’ll be sharing my thoughts on the process as I move through it, as well as links to the recaps when I post them here!
 
 # In The Meantime…
 
-Hopefully you are just as excited for Schlocktober 2021 as I am! I’m looking forward to everything I will have a chance to learn in the process, as well as getting to share it with all of you. I also hope to continue this self-same project in the years to come, should this pilot go over well!
-
 If you are looking for something to read in the meantime, why not head over to <i>Heavy Feather Review</i> and read [the interview I recently conducted with author Darrin Doyle]( https://heavyfeatherreview.org/2021/10/01/aisle-34/) regarding his recently released novel, <i>The Beast in Aisle 34</i>?
 
-The novel is a horror comedy that spotlights Sandy Kurtz - retail worker, husband, and soon-to-be father - as he not only searches for passion and purpose in his life but contends with the curse of transforming into a volatile, gore-hungry werewolf each month too. It was a great read and I highly recommend you check it out!
+The novel is a horror comedy that spotlights Sandy Kurtz - retail worker, husband, and soon-to-be father - as he not only searches for passion and purpose in his life but contends with the curse of transforming into a volatile, gore-hungry werewolf each month too. It was a great read and I highly recommend that you pick up a copy for yourself!
 
-As always, thank for reading & Stay Spooky 👻
+Thanks for reading and Happy October! 🎃
 
 [^1]: Paraphrased from <i>schlock</i> as defined on [Douglas Harper’s Online Etymology Dictionary](https://www.etymonline.com/search?q=schlock).
 
