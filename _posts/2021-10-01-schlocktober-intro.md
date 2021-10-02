@@ -19,7 +19,7 @@ If you are unfamiliar with the term, <i>schlock</i> is best defined as meaning �
 
 Since at least the early 1970s, if not earlier, the term <i>schlock</i> has been used in the Horror community as a descriptor for Horror media that, while unpolished and half-baked, still manages to deliver excitement and entertainment to its core audience. Phenomenal examples of this include such titles as [Humanoids from the Deep (1980)]( https://www.imdb.com/title/tt0080904/), [Killer Clowns from Outer Space (1988)]( https://www.imdb.com/title/tt0095444/), and [Troll 2 (1990)]( https://www.imdb.com/title/tt0105643/) where the effects are hokey, the premises questionable, and the acting stilted, but the film keeps barreling along with the sole goal of telling the story it was crafted to tell. 
 
-This is the type of Horror that I grew up on and, indeed, some of the schlockiest Horror to ever grace the silver screen remains at the tip-top of my list of favorite Horror films ever (looking at you [Basket Case (1982)]( https://www.imdb.com/title/tt0083624/).
+This is the type of Horror that I grew up on and, indeed, some of the schlockiest Horror to ever grace the silver screen remains at the tip-top of my list of favorite Horror films ever (looking at you [Basket Case (1982)]( https://www.imdb.com/title/tt0083624/)).
 
 So, in honor of my love of schlocky Horror media, in the pursuit of producing Horror content that is  in the very least entertaining, and in acknowledgement of the fact that some (if not all ) of the writing produced as part of this project may be little more than “trash,” the <b>Schlocktober</b> writing project has been born.
 
