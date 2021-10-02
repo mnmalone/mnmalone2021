@@ -2,7 +2,7 @@
 title: Blog Birthday
 layout: post
 date: '2021-01-30'
-tags: introduction fluff
+tags: introduction fluff 2021
 comments: true
 image: "/img/blog/2021-01/birthday-cake.png"
 ---
