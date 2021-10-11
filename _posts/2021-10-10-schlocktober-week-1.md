@@ -37,7 +37,9 @@ Overall, the variation in prompts this week certainly allowed me to explore a my
 
 # Final Thoughts
 
-Through the <b>Schlocktober 2021</b> writing that I’ve done so far, I’ve already managed to learn a lot about my own writing process, such as how the hardest part of writing for me is finding the optimal starting point of a story, or how I excel at building out concrete descriptions but wrestle with staying in active voice. I can already tell how just being more aware of these areas of growth has made a positive impact in my writing, and I imagine that continuing to practice this mindfulness will only reveal more places to improve and more avenues to succeed in that improvement. With the amount of subject exploration, creative practice, and routine building that this project has afforded me in this week alone, though, I’d say <b>Schlocktober 2021</b> has been a rousing success so far!
+Through the <b>Schlocktober 2021</b> writing that I’ve done so far, I’ve already managed to learn a lot about my own writing process, such as how the hardest part of writing for me is finding the optimal starting point of a story, or how I excel at building out concrete descriptions but wrestle with staying in active voice. I can already tell how just being more aware of these areas of growth has made a positive impact in my writing, and I imagine that continuing to practice this mindfulness will only reveal more places to improve and more avenues to succeed in that improvement.
+
+Considering the amount of subject exploration, writing practice, and routine building that this project has afforded me in this week alone, though, I’d say <b>Schlocktober 2021</b> has been a rousing success!
 
 If you’ve been following this project, I hope you’ll take the time to comment below or reach out via [Facebook](https://facebook.com/maxwell.irl) or [Twitter](https://twitter.com/maxwell_irl) to let me know what you think about each prompt! I’ll be posting the next <b>Schlocktober 2021</b> recap on October 17, where I’ll go into detail regarding my responses for Week 2’s prompts and share another piece.
 
