@@ -1,5 +1,5 @@
 ---
-title: Schlocktober 2021: Week 1 Recap
+title: Schlocktober 2021 - Week 1 Recap
 layout: post
 date: '2021-10-10'
 tags: schlocktober recap 2021
