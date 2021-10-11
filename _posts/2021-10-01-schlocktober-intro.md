@@ -2,7 +2,7 @@
 title: Schlocktober 2021
 layout: post
 date: '2021-10-01'
-tags: schlocktober project 2021
+tags: schlocktober 2021
 comments: true
 image: "/img/blog/2021-10/schlocktober-intro.png"
 ---
