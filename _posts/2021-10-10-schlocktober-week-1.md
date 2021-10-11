@@ -37,15 +37,15 @@ Overall, the variation in prompts this week certainly allowed me to explore a my
 
 # Final Thoughts
 
-Through the <b>Schlocktober 2021</b> writing that I’ve done so far, I’ve already managed to learn a lot about my own writing process, such as how the hardest part of writing for me is finding the optimal starting point of a story, or how I excel at building out concrete descriptions but wrestle with staying in active voice. I can already tell how just being more aware of these areas of growth has made a positive impact in my writing, and I imagine that continuing to practice this mindfulness will only reveal more places to improve and more avenues to succeed in that improvement.
+Through the <b>Schlocktober 2021</b> writing that I’ve done so far, I’ve already managed to learn a lot about my own writing process, such as how the hardest part of writing for me is finding the optimal starting point of a story, or how I excel at building out concrete descriptions but wrestle with staying in active voice. I can already tell that just being more aware of these areas of growth has made a positive impact in my writing, though, and I imagine that continuing to practice this mindfulness will only reveal more places to improve, and more avenues to succeed in that improvement, too.
 
-Considering the amount of subject exploration, writing practice, and routine building that this project has afforded me in this week alone, though, I’d say <b>Schlocktober 2021</b> has been a rousing success!
+Considering all of the subject exploration, writing practice, and routine building that this project has afforded me in this week alone, I’d say <b>Schlocktober 2021</b> has been a rousing success, and I can't wait to continue on to all the cool prompts waiting for me in Week 2!
 
-If you’ve been following this project, I hope you’ll take the time to comment below or reach out via [Facebook](https://facebook.com/maxwell.irl) or [Twitter](https://twitter.com/maxwell_irl) to let me know what you think about each prompt! I’ll be posting the next <b>Schlocktober 2021</b> recap on October 17, where I’ll go into detail regarding my responses for Week 2’s prompts and share another piece.
+If you’ve been following this project, I hope you’ll take the time to comment below or reach out via [Facebook](https://facebook.com/maxwell.irl) or [Twitter](https://twitter.com/maxwell_irl) to let me know what you think of this project so far! I’ll be posting the next <b>Schlocktober 2021</b> recap on October 17, where I’ll go into detail regarding my responses for Week 2’s prompts and share another piece I'm proud of as well.
 
 Until then, please enjoy the following response to the <b>PREHISTORIC</b> writing prompt, written on October 7, 2021:
 
-# PREHISTORIC Prompt Response
+# Prompt Response: PREHISTORIC
 
 > Adam swept the diffuse glow of his phone’s flashlight through the darkness, illuminating the bruise-like bands in the stone walls of the vestibule in which he and Lara now stood. Nearer the surface, the red rock bloomed with thick skeins of yellow and orange, and the shadows cast by the white-hot disc of the sun skewed more purple than black, imbuing the formations with a magical, alien quality. Here, though – deep beneath the scrubby stretches of red rock country and far from both the sun and the hiking trails they knew – it appeared infernal and fleshy instead. Weaving their way through the claustrophobic folds of the narrow cave entrance had felt like sliding down the length of an enormous, fat-marbled throat – each turn and twist of the path revealing more of the sinewy structure of the cave. The vestibule provided a welcome change to this pattern, but Adam felt only a tinge of levity, for, here, greasy black patches clotted the red sandstone almost entirely, melding the hollow’s terminus with the abyss beyond.
 
