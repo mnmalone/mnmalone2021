@@ -138,13 +138,14 @@ $blogmargin: 48px;
     }
     
     .excerpt{
+        background-color: #f6f8fa;
+        border-radius: 20px 20px 20px 20px;
         display: block;
+        font-family: Scheherazade New;
         margin-left: auto;
         margin-right: auto;
         max-width: 1000px;
         padding: 20px;
-        background-color: #f6f8fa;
-        border-radius: 20px 20px 20px 20px;
     }
     
     .readingtime{
