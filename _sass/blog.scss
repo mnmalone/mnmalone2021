@@ -136,7 +136,15 @@ $blogmargin: 48px;
     h1 + h2, h2 + h3{
         margin-top: 24px;
     }
-
+    
+    .excerpt{
+        padding: 16px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+        background-color: #f6f8fa;
+        border-radius: 0px 0px 6px 6px;
+    }
+    
     .readingtime{
         font-size: 16px;
         text-transform: uppercase;
@@ -256,13 +264,4 @@ p.blog-hero{
 .post-comments{
     position: relative;
     max-width: 700px;
-}
-
-.excerpt{
-    max-width: 700px;
-    padding: 16px;
-    margin-bottom: 15px;
-    margin-top: 15px;
-    background-color: #f6f8fa;
-    border-radius: 0px 0px 6px 6px;
 }
