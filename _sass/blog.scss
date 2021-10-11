@@ -267,4 +267,8 @@ p.blog-hero{
     margin-right: auto;
     max-width: 1000px;
     padding: 20px;
+    
+    p {
+                box-sizing: border-box;
+    }
 }
