@@ -11,7 +11,7 @@ image: "/img/blog/2021-10/schlocktober-week-1.png"
 
 <b>Schlocktober 2021</b> officially began one week ago now and, all things considered, I think it’s going pretty well!
 
-If you’ve been following me on Twitter, you’ve probably seen me [tweeting each prompt out]( https://twitter.com/maxwell_irl) and offering my preliminary thoughts on each one too, at least as much as Twitter allows. Here, though, where the character restrictions are considerably laxer, I want to offer a few more details about the discovery process surrounding each prompt, summarize what I wrote for my responses, and, of course, I want to share my favorite prompt response from this previous week in its entirety.
+If you’ve been following me on Twitter, you’ve probably seen me [tweeting each prompt out]( https://twitter.com/maxwell_irl) and offering my preliminary thoughts on each one too, at least as much as Twitter allows. Here, though, where the character restrictions are considerably laxer, I want to offer a few more details about the discovery process surrounding each prompt, summarize what I wrote for my responses, and, of course, I want to share my favorite prompt response from this week in its entirety.
 
 So, without any further ado, let’s get right into it:
 
