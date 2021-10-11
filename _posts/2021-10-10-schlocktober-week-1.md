@@ -39,7 +39,7 @@ Overall, the variation in prompts this week certainly allowed me to explore a my
 
 Through the <b>Schlocktober 2021</b> writing that I’ve done so far, I’ve already managed to learn a lot about my own writing process, such as how the hardest part of writing for me is finding the optimal starting point of a story, or how I excel at building out concrete descriptions but wrestle with staying in active voice. I can already tell that just being more aware of these areas of growth has made a positive impact in my writing, though, and I imagine that continuing to practice this mindfulness will only reveal more places to improve, and more avenues to succeed in that improvement, too.
 
-Considering all of the subject exploration, writing practice, and routine building that this project has afforded me in this week alone, I’d say <b>Schlocktober 2021</b> has already been a rousing success, and I can't wait to continue on to all the cool prompts waiting for me in Week 2!
+Considering all of the subject exploration, writing practice, and routine building that this project has afforded me in this week alone, I’d say <b>Schlocktober 2021</b> has already been a rousing success, and I can't wait to continue on to all the other cool prompts waiting for me in the weeks to come!
 
 If you’ve been following this project, I hope you’ll take the time to comment below or reach out via [Facebook](https://facebook.com/maxwell.irl) or [Twitter](https://twitter.com/maxwell_irl) to let me know what you think of this project so far! I’ll be posting the next <b>Schlocktober 2021</b> recap on October 17, where I’ll go into detail regarding my responses for Week 2’s prompts and share another piece I'm proud of as well.
 
