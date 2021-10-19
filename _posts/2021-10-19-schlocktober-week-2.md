@@ -31,13 +31,13 @@ As more of William is peeled away, it becomes easier to imagine that he has just
 
 At least William got to have a little fun before the end. <br><br>
 
-Unceremoniously, the GOOP spits out each of William’s bones, one splurch at a time. When all that remains is the upper portion of William’s skull, the GOOP instead claims it as its own, pulling it to the center of its mass and draping the rest of its gluey bulk around it like a sheet ghost. It moves silently up the slope toward the cabin and the rest of us, the hollow sockets of its eyes tracking us with uncanny fluidity. In no time at all, it’s directly out the picture window, its ghastly new visage fixated on our faces. <br><br>
+  Unceremoniously, the GOOP spits out each of William’s bones, one <i>splurch</i> at a time. When all that remains is the upper portion of William’s skull, the GOOP instead claims it as its own, pulling it to the center of its mass and draping the rest of its gluey bulk around it like a sheet ghost. It moves silently up the slope toward the cabin and the rest of us, the hollow sockets of its eyes tracking us with uncanny fluidity. In no time at all, it’s directly out the picture window, its ghastly new visage fixated on our faces. <br><br>
 
 “We’re safe in here,” Samantha whispers to no one in particular, “as long as everything’s locked up. We need to make sure everything is covered.” <br><br>
 
 Wordlessly, Roger, Alec, and Dani back away from the window. Alec reaches the front door and clicks the deadlock into place with an audible thunk. The GOOP is immobile, fixated on Samantha and I. Elsewhere in the cabin, windows are cranked shut, objects shifted to block entry points. <br><br>
 
-Samantha plants her hands on the picture window, squaring her body up with the GOOP’s. “You’re not going to get us!” she hisses. “You’re not going to do that to any one of us, you fucker! We’ll kill you for what you did to William. You’ll see!” <br><br>
+Samantha plants her hands on the picture window, squaring her body up with the GOOP’s. “You’re not going to get us!” she hisses. “You’re not going to do <i>that</i> to any one of us, you fucker! We’ll kill you for what you did to William. You’ll see!” <br><br>
 
 The GOOP seems to consider Samantha’s words. Then, in one fluid motion, it slams the skull into the picture window, showering us with shards of glass. Samantha howls as it heaves its bulk through the fieldstone and logs unimpeded, seizes her body, and rakes her out through the opening with a sickening crack. <br><br>
 
