@@ -1,3 +1,12 @@
+---
+title: Schlocktober 2021 - Week 2 Recap
+layout: post
+date: '2021-10-19'
+tags: schlocktober recap 2021
+comments: true
+image: "/img/blog/2021-10/schlocktober-week-2.png"
+---
+
 ![]({{ site.baseurl }}/img/blog/2021-10/schlocktober-week-2.png)
 
 Well, Week 2 of <b>Schlocktober 2021</b> is in the books, and it was a <i>struggle</i>.
